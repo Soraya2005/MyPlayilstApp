@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyPlayilstApp</string>
+    <string name="view_rating">view_rating</string>
+    <string name="exit">exit</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="music_playlist_manager">Music Playlist Manager</string>
+    <string name="display_full_playlist">Display Full Playlist</string>
+    <string name="calculate_average_rating">Calculate Average Rating</string>
+    <string name="return_to_main_screen">Return to Main Screen</string>
+    <string name="playlist_details">Playlist Details</string>
+    <string name="click_a_button_above_to_see_details">Click a button above to see details</string>
+    <string name="calculate_rating">Calculate Average Rating</string>
+    <string name="btnReturn">Return to Main Screen</string>
+    <string name="view_details">View details</string>
+    <string name="display_the_playlist">Display Full Playlist</string>
+    <string name="My_playlist_details">Playlist Details</string>
+    <string name="my_music_playlist_manager">My Music Playlist Manager</string>
+    <string name="add_to_the_playlist">Add to Playlist</string>
+    <string name="view_playlist_details">View Playlist Details</string>
+    <string name="exit_app">Exit App</string>
+</resources>
